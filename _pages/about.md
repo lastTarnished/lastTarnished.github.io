@@ -14,5 +14,3 @@ I am very fortunate to be advised by [Prof. Huang Hanyan]([https://www.XXX.com/]
 You can find my CV here: [Shen Yi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](sheny89@mail2.sysu.edu.cn) / [Github](https://github.comlastTarnished1)
-————————————————
-
